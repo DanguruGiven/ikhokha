@@ -1,0 +1,20 @@
+{
+    "blogs": [
+        {
+            "title": "blog title #1",
+            "description": "Blog excerpt - first lines - for approx two lines"
+        },
+        {
+            "title": "blog title #2",
+            "description": "Blog excerpt - first lines - for approx two lines"
+        },
+        {
+            "title": "blog title #3",
+            "description": "Blog excerpt - first lines - for approx two lines"
+        },
+        {
+            "title": "blog title #4",
+            "description": "Blog excerpt - first lines - for approx two lines"
+        }
+    ]
+}

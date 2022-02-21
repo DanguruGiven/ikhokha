@@ -1,0 +1,25 @@
+.partners {
+    width: 100%;
+    min-height: 145px;
+    background: #F5F8FA 0% 0% no-repeat padding-box;
+    display: flex;
+    align-items: center;
+
+    & .wrapper {
+        overflow-x: scroll;
+        display: flex;
+
+        &::-webkit-scrollbar {
+            display: none;
+        }
+
+        & .col {
+            // width: fit-content;
+            min-width: 160px;
+
+            & img {
+                font-weight: bold;
+            }
+        }
+    }
+}

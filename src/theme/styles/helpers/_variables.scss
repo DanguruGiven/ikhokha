@@ -1,0 +1,32 @@
+// color variables
+$color-blue        :#4296CB;
+$color-white       :#FFFFFF;
+$color-black       :#182333;
+
+$primary-color     :#394e5d;
+
+$btn-width         :60px;  
+$navbar-height     :57px;  
+
+$colors:
+    "dark-blue"     $primary-color,
+    "blue"          $color-blue,
+    "white"         $color-white,
+    "black"         $color-black;
+
+$font-sizes:
+    "10" 10px,
+    "12" 12px,
+    "14" 14px,
+    "16" 16px,
+    "18" 18px,
+    "20" 20px,
+    "22" 22px,
+    "24" 24px,
+    "32" 32px,
+    "46" 46px;
+
+$text-transform:
+    lowercase,
+    capitalize,
+    uppercase;
