@@ -6,7 +6,7 @@ import { fetchBlogs } from '../../store/actions/blogActions';
 
 import Product from '../../theme/assets/product-image.png';
 import Hero from '../../theme/assets/hero-image.png';
-import PartnerLogo from '../../theme/assets/partner_logo.svg';
+import PartnerLogo from '../../theme/assets/partner_logo_2.png';
 import Navbar from '../../components/Navbar';
 
 const Home = () => {
