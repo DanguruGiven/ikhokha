@@ -15,6 +15,7 @@
 
     & p {
         @extend .text-white;
+        @extend .text-bold;
         display: inline-block;
         margin-bottom: 0px;
     }

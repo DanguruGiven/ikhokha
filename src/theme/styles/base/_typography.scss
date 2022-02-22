@@ -30,16 +30,27 @@
     }
 }
 
+// .text-thin {
+//     font-family: "montserrat-thin";
+// }
+
+@each $name, $weight in $font-weights {
+    .text-#{$name} {
+        font-family: $weight;
+    }
+}
+
 .section-header {
     text-align: center;
     font-size: 32px;
-    font-weight: bold;
     letter-spacing: 0px;
     color: #394E5D;
+    font-family: "montserrat-bold" !important;
 }
 
 @media screen and (max-width: 450px) {
     .section-header {
         font-size: 26px !important;
+        font-family: "montserrat-bold" !important;
     }
 }

@@ -15,6 +15,7 @@ section.hero {
 
     & h3 {
         @extend .text-size-46;
+        font-family: "montserrat-semibold" !important;
     }
 }
 
@@ -22,6 +23,7 @@ section.hero {
     section.hero h3 {
         font-size: 32px !important;
         margin-bottom: 1rem;
+        font-family: "montserrat-bold" !important;
     }
 }
 

@@ -44,14 +44,14 @@ const Home = () => {
                 <div className="container py-2 py-md-5 py-lg-5">
                     <div className="row mx-0">
                         <div className="col-12 mb-5">
-                            <h2 className="section-header fw-bold text-start text-md-center text-lg-center">Lorem ipsum something</h2>
+                            <h2 className="section-header text-bold text-start text-md-center text-lg-center">Lorem ipsum something</h2>
                         </div>
                         <div className="col-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center d-none d-md-flex d-lg-flex">
                             <img src={Product} alt="..." />
                         </div>
                         <div className="col-12 col-md-6 col-lg-6 d-flex align-items-center justify-content-center">
                             <div>
-                            <h6 className="text-dark-blue text-size-20 fw-bold">New Product, new Story</h6>
+                            <h6 className="text-dark-blue text-size-20 text-bold">New Product, new Story</h6>
                             <p className="text-size-18 text-black">Vivamus vestibulum elit efficitur, elementum sapien a, aliquet ipsum. Fusce placerat dolor id cursus finibus. Aliquam tempus facilisis ipsum sit amet molestie. Proin lobortis eros a turpis tempor, sed ornare augue aliquam. Donec imperdiet nulla ut placerat molestie. In hendrerit blandit ante facilisis ultrices. Mauris vulputate metus sit amet ex dignissim, sed hendrerit nunc rhoncus.</p>
                             </div>
                         </div>

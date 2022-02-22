@@ -21,14 +21,14 @@
         @extend .text-black;
         @extend .text-size-20;
         @extend .text-capitalize;
-        font-weight: 600;
+        @extend .text-semibold;
         line-height: 24px;
     }
 
     & .description {
         @extend .text-black;
         @extend .text-size-16;
-        font-weight: normal;
+        @extend .text-regular;
         line-height: 19px;
         margin-bottom: 0px;
     }

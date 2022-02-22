@@ -5,7 +5,8 @@
     min-width: 140px;
     min-height: 38px;
     border-radius: 32px;
-    font: normal normal 600 14px/18px;
+    font-family: "montserrat-semibold";
+    font-size: 14px;
 
     &-primary {
         @extend .button;
