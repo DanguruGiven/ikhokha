@@ -81,7 +81,7 @@ const Home = () => {
                 </div>
             </section>
 
-            <section className="py-5">
+            <section className="py-5 mb-5">
                 <div className="container py-5">
                     <div className="row mx-0">
                         {
